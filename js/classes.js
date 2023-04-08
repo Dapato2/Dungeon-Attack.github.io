@@ -20,7 +20,7 @@ class Hero {
         this.heroY = heroY;
         this.width = w;
         this.height = h;
-        this.step = 25;
+        this.step = 1;
         this.image = new Image();
         this.image.src = "./images/charactersImg/Knight2Walk2.png";
         this.isHero = isHero;
